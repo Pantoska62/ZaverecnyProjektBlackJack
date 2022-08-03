@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZaverecnyProjektBlackJack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZaverecnyProjektBlackJack_jar</output-path>
+    <root id="archive" name="ZaverecnyProjektBlackJack.jar">
+      <element id="module-output" name="ZaverecnyProjektBlackJack" />
+    </root>
+  </artifact>
+</component>
